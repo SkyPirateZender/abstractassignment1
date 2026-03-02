@@ -1,0 +1,8 @@
+David Collins, Senior Engineer, 1988, 2012, Engineering, Web Design, 620
+Bruce Duster, Senior Engineer, 1985, 2008, Engineering, Networks, 625
+Hulk Hogan, Junior Engineer, 1995, 2020, Engineering, Design, 24
+Donald Kennedy, Junior Engineer, 2000, 2022, Operations, Optimization, 88
+Ontaria Laker, CEO, 1980, 2007, Executive, Design, 1000
+Lauren Liu, Product Manager, 1990, 2012, Service, Server, 490
+John Parker, Engineer, 1992, 2015, Engineering, Graphics, 230
+Alice Wonderland, Lead Engineer, 1987, 2009, Operations, Test, 799
