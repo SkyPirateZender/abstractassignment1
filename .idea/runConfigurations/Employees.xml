@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Employees" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="ManagementSystem.CompangeSys" />
+    <module name="ClassAssignment1" />
+    <option name="PROGRAM_PARAMETERS" value="employees" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Summary" run_configuration_type="Application" />
+    </method>
+  </configuration>
+</component>

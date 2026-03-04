@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Summary" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="ManagementSystem.CompangeSys" />
+    <module name="ClassAssignment1" />
+    <option name="PROGRAM_PARAMETERS" value="summary" />
+    <method v="2" />
+  </configuration>
+</component>
