@@ -3,4 +3,4 @@ Year: 2007
 CEO: Ontaria Laker
 Number of Departments: 4
 Number of Employees: 8
-List of Departments: Executive, Engineering, Product, Service
+List of Departments: Executive, Engineering, Operations, Service
